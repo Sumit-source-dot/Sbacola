@@ -17,15 +17,3 @@ export default function App() {
 
 
 
-// function App()
-// {
-// return (
-// <BrowserRouter>
-// <Header/>
-// <Routes>
-// <Route path=”/” exact={true} element=
-// {<Home/>}/>
-// </Routes>
-// </BrowserRouter>
-// }
-// export default App;
